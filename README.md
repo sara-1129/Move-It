@@ -27,5 +27,5 @@ A responsive frontend for a moving company website built with HTML and Bootstrap
 No installation required - this is a static website. Simply clone the repository and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/sara-1129/move-it-website.git
-cd Move-it
+git clone https://github.com/sara-1129/Move-It.git
+cd Move-It
