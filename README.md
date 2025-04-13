@@ -28,4 +28,4 @@ No installation required - this is a static website. Simply clone the repository
 
 ```bash
 git clone https://github.com/your-username/move-it-website.git
-cd move-it-website
+cd Move-it
